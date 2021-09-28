@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Waters1993
-- 👀 I’m interested in learning Computer Science and Software Engineering
-- 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, Welcome to my GitHub profile👋
+--- 
+My name is James Waters and I'm an Engineer looking to land my first role as a Software or Data Engineer. I'm from Ireland and living in Boston Massachusetts. I currently work for Johnson and Johnson as a Senior project lead. 
+
+## Technologies & Tools
+---
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
 
 <!---
 Waters1993/Waters1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

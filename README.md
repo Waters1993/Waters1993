@@ -1,6 +1,6 @@
 # Hi, Welcome to my GitHub profile👋
 --- 
-My name is James Waters and I'm an Engineer looking to land my first role as a Software or Data Engineer. I'm from Ireland and living in Boston Massachusetts. I currently work for Johnson and Johnson as a Senior project lead. 
+My name is James Waters and I'm an Engineer looking to land my first role as a Software or Data Engineer. I'm from Ireland and living in Boston Massachusetts. I currently work for Integra LifeSciences as a Senior NPI Engineer. 
 
 ## Technologies & Tools
 ---

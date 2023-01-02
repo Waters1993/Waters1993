@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile👋
 --- 
-My name is James Waters. I'm from Ireland and living in Boston Massachusetts. I currently work for Integra LifeSciences as a Senior NPI Engineer. 
+My name is James Waters. I'm a Software Engineer living in Boston Massachusetts. I'm currently working with Ruby on Rails and React frameworks. 
 
 ## Technologies & Tools
 ---

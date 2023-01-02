@@ -1,6 +1,9 @@
 # Welcome to my GitHub profile👋
 --- 
-My name is James Waters. I'm a Software Engineer living in Boston Massachusetts. I'm currently working with Ruby on Rails and React frameworks. 
+My name is James Waters. I'm a Software Engineer living in Boston Massachusetts. I'm currently working with the Ruby on Rails and React frameworks. 
+
+I transitioned to software engineering following a 6 year career in Medical Device manufacturng where I worked as a Project Engineer.
+
 
 ## Technologies & Tools
 ---

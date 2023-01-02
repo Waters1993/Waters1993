@@ -3,10 +3,9 @@
 My name is James Waters. I'm a Software Engineer living in Boston Massachusetts. I'm currently working with the Ruby on Rails and React frameworks. 
 
 I transitioned to software engineering following a 6 year career in the Medical Device industry where I worked as a Project Engineer. Over the coure of my career I launched a number of new products include orthopaedic hip and knee components as well as tissue repair devices. 
-&#127470;&#127466;
-&#127470;  
 
-&#127466;
+![image](https://user-images.githubusercontent.com/75390391/210278470-94b3c645-4cd0-4880-b0ef-4390bfe0c139.png)
+
 
 
 ## Technologies & Tools

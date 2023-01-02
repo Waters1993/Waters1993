@@ -4,7 +4,9 @@ My name is James Waters. I'm a Software Engineer living in Boston Massachusetts.
 
 I transitioned to software engineering following a 6 year career in the Medical Device industry where I worked as a Project Engineer. Over the coure of my career I launched a number of new products include orthopaedic hip and knee components as well as tissue repair devices. 
 &#127470;&#127466;
+&#127470;  
 
+&#127466;
 
 
 ## Technologies & Tools

@@ -12,7 +12,8 @@ My goals for 2023 are to:
 - Take on my first freelance webdevelopment work
 - Get a new role as a software engineer
 ## Certifications
-[HarvardX CS50](https://courses.edx.org/certificates/291f921ff44049ffb0d4cc92fef7c074).
+[HarvardX CS50](https://courses.edx.org/certificates/291f921ff44049ffb0d4cc92fef7c074)
+
 [Codecademy Ruby](https://www.codecademy.com/profiles/core2688126528/certificates/1c05e0382bc5681c824c4cbe85c126fd)
 
 ## Technologies & Tools

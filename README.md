@@ -11,6 +11,9 @@ My goals for 2023 are to:
 - Contribute to Open Source projects
 - Take on my first freelance webdevelopment work
 - Get a new role as a software engineer
+## Certifications
+[HarvardX CS50](https://courses.edx.org/certificates/291f921ff44049ffb0d4cc92fef7c074).
+
 
 ## Technologies & Tools
 ---

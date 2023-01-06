@@ -4,7 +4,7 @@ My name is James Waters. I'm a Software Engineer living in Boston Massachusetts.
 
 I transitioned to software engineering following a 6 year career in the Medical Device industry where I worked as a Project Engineer. Over the course of my career I launched a number of new products including orthopaedic hip and knee implants as well as tissue repair devices.
 
-I am completely self taught software engineer. I started my journey by completing  the HarvardX introductory course CS50. Since then I have completed a number of online open courses and created a project portfolio. I am continuing my journey with more deep form learning 
+I'm a completely self taught programmer. I started my journey by completing  the HarvardX introductory course CS50. Since then I have completed a number of online open courses and created a project portfolio. I am continuing my journey with more deep form learning 
 through text books and more complex projects. 
 
 My goals for 2023 are to:

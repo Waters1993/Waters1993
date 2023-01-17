@@ -13,8 +13,9 @@ My goals for 2023 are to:
 - Get a new role as a software engineer
 ## Certifications
 [HarvardX CS50](https://courses.edx.org/certificates/291f921ff44049ffb0d4cc92fef7c074)
-
 [Codecademy Ruby](https://www.codecademy.com/profiles/core2688126528/certificates/1c05e0382bc5681c824c4cbe85c126fd)
+[Complete JavaScript by Jonas Schmedtmann](https://www.udemy.com/certificate/UC-3b7a72b4-dda1-412c-ad51-4f08c4531920/)
+
 
 ## Technologies & Tools
 ---
